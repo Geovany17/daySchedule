@@ -5,7 +5,11 @@ This app was made as a homework for Penn LPS bootcamp.
 This is a work daily schedule application, built using HTML, CSS,Javascript and JQuery.
 This project has been deployed to GitHub Pages.
 
+<<<<<<< HEAD
 ![Code-Quiz Demo](assets/Work Day Scheduler.gif)
+=======
+![daySchedule](assets\Work Day Scheduler.gif)
+>>>>>>> c740e6e212e1ecd84fe31d0e071bb115b559cbcf
 
 - [GitHub Repository](https://github.com/Geovany17/daySchedule)
 - [Deployed GitHub IO](https://geovany17.github.io/daySchedule/.)
