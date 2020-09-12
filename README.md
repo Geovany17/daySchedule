@@ -6,7 +6,7 @@ This is a work daily schedule application, built using HTML, CSS,Javascript and 
 This project has been deployed to GitHub Pages.
 
 
-![daySchedule Demo](assets/Work Day Scheduler.gif.)
+![daySchedule Demo](https://raw.githubusercontent.com/Geovany17/daySchedule/master/assets/Work%20Day%20Scheduler.gif)
 
 - [GitHub Repository](https://github.com/Geovany17/daySchedule)
 - [Deployed GitHub IO](https://geovany17.github.io/daySchedule/.)
